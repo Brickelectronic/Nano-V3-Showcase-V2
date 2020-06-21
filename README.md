@@ -2,7 +2,7 @@
 Projects around LEGO® technical enhancements
 <br><br>
 Here source codes for various projects related to technical extensions of building block models such as LEGO® are published.
-Among them also source codes for examples from the book "LEGO® Modelle beleuchten" (dpunkt Verlag)
+Among them also source codes for examples from the Book "LEGO® Modelle beleuchten" (dpunkt Verlag)
 <br><br>
 Website: https://brickelectronic.de<br>
 YouTube: https://www.youtube.com/channel/UC-F08WUVCOV11ZtZsU0ZXNg<br>
