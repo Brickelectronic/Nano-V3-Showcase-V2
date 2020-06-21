@@ -1,10 +1,8 @@
-# brickset-modding
-Projects around LEGO® technical enhancements
+# Showcase Shield V2
+LEGO® compatible Shield for Arduino Nano V3
 <br><br>
-Here source codes for various projects related to technical extensions of building block models such as LEGO® are published.
-Among them also source codes for examples from the Book "LEGO® Modelle beleuchten" (dpunkt Verlag)
+The Shield was developed for LEGO User Groups to equip MOCs in showcases with lighting and control them from outside with proximity sensors.
 <br><br>
-Website: https://brickelectronic.de<br>
 YouTube: https://www.youtube.com/channel/UC-F08WUVCOV11ZtZsU0ZXNg<br>
 Facebook: https://www.facebook.com/brickelectronic<br>
 Book: https://www.dpunkt.de/buecher/13330/9783864906879-lego%C2%AE-modelle-beleuchten.html<br>
